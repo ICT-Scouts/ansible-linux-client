@@ -1,4 +1,4 @@
-#Ansible Linux Client
+# Ansible Linux Client
 Open Source Ansible roles and scripts for deploying the **ICT-Scouts Linux Client**
 ## Folders
 [`scripts`](scripts): Helper scripts for deployment
